@@ -3,7 +3,7 @@ Small python program to have a mail generated automatically when you run the pro
 So with a weekly task launch you can always be on the lookout for the last possible appointment 
 There are only 3 things to change if you want to have an early appointment in Le Havre 
 * Email of sending,
-* Email of desitnation
+* Email of destination
 * your actual date of appointment
 
 With an email sent out looking like this 
